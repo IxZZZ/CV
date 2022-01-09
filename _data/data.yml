@@ -7,44 +7,41 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Ho Xuan Ninh
+    tagline: Just a student with a huge fascinate in security
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
+    email: xuanninhho1412@gmail.com
+    phone: +84 862 729 101
+    website: ixzzz.github.io/Blog #do not add http://
+    linkedin: linkedin.com/in/ho-ninh-523a78149
+    xing: IxZZZ
     github: sharu725
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@Xuanninh1412'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
-      - idiom: English
+      - idiom: Vietnamese
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
+      - idiom: English
+        level: Upper Intermediate
 
     interests:
-      - item: Climbing
+      - item: Volleyball
+        link: 
+
+      - item: Football
         link:
 
-      - item: Snowboarding
-        link:
-
-      - item: Cooking
+      - item: Badminton
         link:
 
 career-profile:
