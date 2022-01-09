@@ -73,17 +73,16 @@ experiences:
         In the first time join the ASEAN STUDENT CONTEST ON INFORMATION SECURITY 2021, I and my team was award:
           - Third Prize in Qualification Round - Jeopardy type
           - Consolation Prize in Final Round - King Of The Hill ft Attack & Defense
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Participant
+      time: 2021
+      company: Flare-on 8
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        It's great experience in the first time participate in the largest reverse engineering competition. I cleared all the 10 challenges.
+    - role: Participant
+      time: 2019-2022
+      company: CTF wargame
+      details: |
+        I joined a lot of CTF wargame to build and update my security skill such as ASISCTF 2021, pbctf2021, FwordCTF 2021, InCTF2021, IJCTF2021, TetCTF2022,...
 projects:
     title: Projects
     intro: >
