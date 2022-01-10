@@ -70,14 +70,14 @@ experiences:
       time: 2021
       company: ASCIS 2021
       details: |
-        In the first time join the ASEAN STUDENT CONTEST ON INFORMATION SECURITY 2021, I and my team was award:
+        In the first time join the ASEAN STUDENT CONTEST ON INFORMATION SECURITY 2021, I and my team were award:
           - Third Prize in Qualification Round - Jeopardy type
           - Consolation Prize in Final Round - King Of The Hill ft Attack & Defense
     - role: Participant
       time: 2021
       company: Flare-on 8
       details: |
-        It's great experience in the first time participate in the largest reverse engineering competition. I cleared all the 10 challenges.
+        It's a great experience in the first time participating in the largest reverse engineering competition. I have received an epic belt buckle when cleared all the 10 challenges in competition time.
     - role: Participant
       time: 2019-2022
       company: CTF wargame
@@ -86,52 +86,37 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Below lists are all my public repositories on github.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: CTF_JOINED
+        link: "#https://github.com/IxZZZ/CTF_JOINED"
+        tagline: "A repository for all my joined CTF contests and Just some CTF was written up and some of it I was researching on the write up to learning new things such as ASCIS2020, ASCIS2019, Flare-on7,..."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Homomorphic-Encryption-on-Logistic-Regression
+        link: "https://github.com/IxZZZ/Homomorphic-Encryption-on-Logistic-Regression"
+        tagline: "This is my cryptography course project collaborated with another friend. Deploying Homomorphic encryption on logistic regression through Microsoft open-source SEAL library"
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Journey-Make-It-Easy
+        link: "https://github.com/datthinh1801/Journey-Make-It-Easy"
+        tagline: "A project of web programming course collaborated with two other my friends. Build a travel website using Vue-js framework for frontend and Django for backend and Postgresql and Graphql for the database."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: CEPH-deployment
+        link: "https://github.com/datthinh1801/CEPH-deployment"
+        tagline: "Another collaborated course project, deployment of a distributed object storage system which has numerous advantages as hardware-independent, scalability, flexibility, availability,..."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: spring-boot-demo
+        link: "https://github.com/datthinh1801/spring-boot-demo"
+        tagline: "Deployment CI/CD on GitHub action environment for a simple public project spring-boot-demo. We integrated some scan tools in CI/CD progressing."
 
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      Out of the university and CTF time, I have collaborated with my friend to do research on IDS for IoT network and the paper is on the reviewing progress.
     papers:
-      - title: The Art of Computer Programming
+      - title: 
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-
+        authors: 
+        conference: 
 skills:
     title: Skills &amp; Proficiency
 
