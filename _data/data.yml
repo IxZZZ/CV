@@ -58,13 +58,12 @@ education:
       university: University of Information Technology VNU-HCM
       time: 2019 - 2023
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        In progressing...
+    - degree: TOEIC
+      university: Cerificat issuance by IIG VietNam
+      time: 2021-2023
+      details: |
+        I complete the first TOEIC examination with total 845 point consist of two skill reading and listening.
 experiences:
     - role: Reverse Engineering of Team
       time: 2021
@@ -121,23 +120,23 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Python
+        level: 90%
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: C/C++
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Javascript
+        level: 70%
 
-      - name: Sketch & Photoshop
+      - name: HTML5 & CSS
         level: 60%
+
+      - name: C#
+        level: 90%
+
+      - name: English
+        level: 70%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
