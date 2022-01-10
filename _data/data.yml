@@ -88,7 +88,7 @@ projects:
       Below lists are some of my most prominent public repositories on Github.
     assignments:
       - title: CTF_JOINED
-        link: "#https://github.com/IxZZZ/CTF_JOINED"
+        link: "https://github.com/IxZZZ/CTF_JOINED"
         tagline: "A repository for all my joined CTF contests and Just some CTF was written up and some of it I was researching on the write up to learning new things such as ASCIS2020, ASCIS2019, Flare-on7,..."
 
       - title: Homomorphic-Encryption-on-Logistic-Regression
@@ -112,7 +112,7 @@ publications:
     intro: |
       a few of my publications. Out of the university and CTF time, I have collaborated with my friend to do research on IDS for IoT network and the paper is on the reviewing progress, so I will not reference here.
     papers:
-      - title: My first paper
+      - title: having a paper which was submitted to an ISI-Q2 journal and is pending for acceptance
         link: "#"
         authors: 
         conference: 
@@ -131,7 +131,7 @@ skills:
         level: 95%
 
       - name: Javascript
-        level: 70%
+        level: 60%
 
       - name: HTML5 & CSS
         level: 60%
@@ -142,5 +142,5 @@ skills:
       - name: English
         level: 70%
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+# footer: >
+#     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
