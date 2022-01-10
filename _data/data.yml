@@ -110,9 +110,9 @@ projects:
 publications:
     title: Publications
     intro: |
-      a few of my publications
+      a few of my publications, Out of the university and CTF time, I have collaborated with my friend to do research on IDS for IoT network and the paper is on the reviewing progress, so I will not reference here.
     papers:
-      - title: My first paper - Out of the university and CTF time, I have collaborated with my friend to do research on IDS for IoT network and the paper is on the reviewing progress, so I will not reference here.
+      - title: My first paper
         link: "#"
         authors: 
         conference: 
