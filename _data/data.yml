@@ -85,7 +85,7 @@ experiences:
 projects:
     title: Projects
     intro: >
-      Below lists are all my public repositories on github.
+      Below lists are some of my most prominent public repositories on Github.
     assignments:
       - title: CTF_JOINED
         link: "#https://github.com/IxZZZ/CTF_JOINED"
@@ -110,12 +110,15 @@ projects:
 publications:
     title: Publications
     intro: |
-      Out of the university and CTF time, I have collaborated with my friend to do research on IDS for IoT network and the paper is on the reviewing progress.
+      a few of my publications
     papers:
-      - title: 
+      - title: My first paper - Out of the university and CTF time, I have collaborated with my friend to do research on IDS for IoT network and the paper is on the reviewing progress, so I will not reference here.
         link: "#"
         authors: 
         conference: 
+    papers: 
+      - title: This my Blog, just some write up and some other research thing here.
+        link: "ixzzz.github.io/Blog"
 skills:
     title: Skills &amp; Proficiency
 
