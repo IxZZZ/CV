@@ -88,7 +88,7 @@ projects:
       Below lists are some of my most prominent public repositories on Github.
     assignments:
       - title: CTF_JOINED
-        link: "https://github.com/IxZZZ/CTF_JOINED"
+        link: "https://github.com/IxZZZ/CTF_JOIN"
         tagline: "A repository for all my joined CTF contests and Just some CTF was written up and some of it I was researching on the write up to learning new things such as ASCIS2020, ASCIS2019, Flare-on7,..."
 
       - title: Homomorphic-Encryption-on-Logistic-Regression
