@@ -112,7 +112,7 @@ publications:
     intro: |
       a few of my publications. Out of the university and CTF time, I have collaborated with my friend to do research on IDS for IoT network and the paper is on the reviewing progress, so I will not reference here.
     papers:
-      - title: having a paper which was submitted to an ISI-Q2 journal and is pending for acceptance
+      - title: Having a paper which was submitted to an ISI-Q2 journal and is pending for acceptance
         link: "#"
         authors: 
         conference: 
