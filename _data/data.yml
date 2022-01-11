@@ -60,7 +60,7 @@ education:
       details: |
         In progressing...
     - degree: TOEIC
-      university: 850 total score in reading and listening TOEIC certificate issuance by IIG VietNam
+      university: 845 total score in reading and listening TOEIC certificate issuance by IIG VietNam
       time: 2021-2021
       details: |
         I complete the first TOEIC examination with total 845 point consist of two skill reading and listening.
@@ -117,7 +117,7 @@ publications:
         authors: 
         conference: 
       - title: This is my Blog, just some write-up and some other research thing here..
-        link: "ixzzz.github.io/Blog"
+        link: "https://ixzzz.github.io/Blog"
         authors: 
         conference: 
 skills:
