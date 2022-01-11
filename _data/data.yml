@@ -47,7 +47,11 @@ sidebar:
 career-profile:
     title: About me
     summary: |
-      Hi, I'm Xuan Ninh, and I am passionate about computer security especially in reverse engineering and exploitation.I have the ability to research documentation and understand the technology frameworks. With various fundamental security skill was built through the experience of joining some CTF contests and school practice exercise and lab. I am now looking forward to seeking an internship position related to security where I can expand my learning and formulate my experience in a professional environment work.
+      Hi, I'm Xuan Ninh, and I am passionate about computer security especially in reverse engineering and exploitation.
+       I have the ability to research documentation and understand the technology frameworks.
+        With various fundamental security skill was built through the experience of joining some CTF contests and
+         school practice exercise and lab. I am now looking forward to seeking an internship position related to
+          security where I can expand my learning and formulate my experience in a professional environment work.
       
 education:
     - degree: Infomation Security
