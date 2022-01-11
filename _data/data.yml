@@ -38,10 +38,10 @@ sidebar:
       - item: Volleyball
         link: 
 
-      - item: Swimming
+      - item: Reading
         link:
 
-      - item: Badminton
+      - item: Music
         link:
 
 career-profile:
@@ -97,7 +97,7 @@ projects:
 
       - title: Journey-Make-It-Easy
         link: "https://github.com/datthinh1801/Journey-Make-It-Easy"
-        tagline: "A project of web programming course collaborated with two other my friends. Build a travel website using Vue-js framework for frontend and Django for backend and Postgresql and Graphql for the database."
+        tagline: "A project of web programming course collaborated with two other my friends. Build a travel website using Vue-js framework for frontend, Django for backend and Postgresql and Graphql for the database."
 
       - title: CEPH-deployment
         link: "https://github.com/datthinh1801/CEPH-deployment"
